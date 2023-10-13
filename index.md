@@ -23,6 +23,8 @@ console.log("Hello,World")
 
 ```
 
-- [X] create index.md
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 markdown header testing
